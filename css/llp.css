@@ -1,0 +1,14 @@
+
+.main-buttons {
+    margin: 20px !important;
+    min-width: 25%;
+    color: black;
+}
+
+.full-page {
+    min-height: 100%;
+}
+
+.intro-text {
+    margin-top: -30px!important;
+}
